@@ -1,5 +1,5 @@
 
-# Spider Task 1
+# PID Controller
 
 This task involves the design and simulation of a PID Controller, which is also known as Proportional,Integral, Derivative controller. This is one of the most commonly used controllers. 
 The software used for  the simualtion is Proteus Professional 8.
